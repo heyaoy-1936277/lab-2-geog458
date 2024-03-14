@@ -6,14 +6,13 @@ For this project, I decided to explore the differences among the Space Needle, P
 # Word Clouds
 
 ## Space Needle
-<img src="/img/space needle.png" alt="Space Needle Word Cloud">
+<img src="/images/space needle.png" alt="Space Needle Word Cloud">
 
 ## Pike Place Market
-<img src="/img/pike place market.png" alt="Pike Place Market Word Cloud">
+<img src="/images/pike place market.png" alt="Pike Place Market Word Cloud">
 
 ## UW Campus
-<img src="/img/uw campus.png" alt="UW Campus Word Cloud">
-
+<img src="/images/uw campus.png" alt="UW Campus Word Cloud">
 # CSV Files Used
 [Download UW Seattle Data](/assets/pike-place-market.csv) <br>
 [Download UW Tacoma Data](/assets/space needle.csv) <br>
