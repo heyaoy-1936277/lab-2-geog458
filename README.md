@@ -15,6 +15,6 @@ For this project, I decided to explore the differences among the Space Needle, P
 <img src="/images/uw campus.png" alt="UW Campus Word Cloud">
 
 # CSV Files Used
-[Download UW Seattle Data](/assets/pike-place-market.csv) <br>
-[Download UW Tacoma Data](/assets/space needle.csv) <br>
-[Download UW Bothell Data](/assets/uwcampus.csv)
+[Download pike Data](/assets/pike-place-market.csv) <br>
+[Download space needle Data](/assets/space-needle.csv) <br>
+[Download uw campus Data](/assets/uwcampus.csv)
